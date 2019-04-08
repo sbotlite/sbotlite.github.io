@@ -30,6 +30,11 @@ h1 {
     font-size: 3em;
     font-family:monospace;
 }
+h1 {
+    font-size: 2em;
+    font-family:monospace;
+}
+
 p {
     font-size: 1.5em;
     line-height: 1.4em;
@@ -37,7 +42,7 @@ p {
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+    font-size: 2em;
 }
 
 ul.posts { 
