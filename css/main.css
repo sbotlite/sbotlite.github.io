@@ -2,6 +2,10 @@ html {justify-content: center;
         align-content: center;
         align-items: center;
 }
+div {
+        align-content: center;
+        align-items: center;
+}
 body {
     margin: 60px auto;
     width: 70%;
