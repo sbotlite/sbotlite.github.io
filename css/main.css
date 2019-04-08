@@ -4,7 +4,7 @@ body {
 }
 div{
     font-family:monospace;
-    width: 1300px;
+    width: 1400px;
     word-wrap: break-word;
     display: inline-block;
     text-align: justify;
@@ -27,17 +27,17 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
+    font-size: 4em;
     font-family:monospace;
 }
 h2 {
-    font-size: 2em;
+    font-size: 3em;
     font-family:monospace;
 }
 
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 2em;
+    line-height: 2em;
     color: #333;
 }
 footer {
