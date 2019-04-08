@@ -2,6 +2,13 @@ body {
     margin: auto;
     width: 500%;
 }
+div{
+    font-family:monospace;
+            width: 200px;
+            word-wrap: break-word;
+            display: inline-block;
+    text-align: justify;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
