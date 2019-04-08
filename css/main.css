@@ -4,9 +4,9 @@ body {
 }
 div{
     font-family:monospace;
-            width: 200px;
-            word-wrap: break-word;
-            display: inline-block;
+    width: 500px;
+    word-wrap: break-word;
+    display: inline-block;
     text-align: justify;
 }
 nav ul, footer ul {
